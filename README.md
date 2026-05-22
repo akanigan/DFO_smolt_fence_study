@@ -8,8 +8,7 @@ The code and data provided here are made available **solely for the purposes of 
 
 They are **not licensed for redistribution or reuse** at this stage.
 
-If the article is accepted for publication, the final version of both the code and data will be deposited in **Zenodo**, where they will receive a permanent DOI  
-and be released under appropriate open licenses. At that time, the materials will be freely available for citation and reuse.
+If the article is accepted for publication, the final version of both the code and data will be deposited in **Zenodo**, where they will receive a permanent DOI and be released under appropriate open licenses. At that time, the materials will be freely available for citation and reuse.
 
 ## Reproducible environment (for reviewers)
 
