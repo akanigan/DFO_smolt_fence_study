@@ -23,8 +23,8 @@ If the article is accepted for publication, the final version of both the code a
 3) In the console, run:
 - install.packages("renv")
 - renv::restore(prompt = FALSE)
-- rmarkdown::render("CHILKO_BLTR_VPS.Rmd", clean=TRUE, envir=new.env())
+- rmarkdown::render("DFO_smolt_fence_passage_behaviour.Rmd", clean=TRUE, envir=new.env())
 
 This performs a test knit and produces an output file; however, the knit does not recompute analyses (see next step).
 
-4) Open CHILKO_BLTR_VPS.Rmd from the project files directory and follow instructions within to replicate results
+4) Open DFO_smolt_fence_passage_behaviour.Rmd from the project files directory and follow instructions within to replicate results
