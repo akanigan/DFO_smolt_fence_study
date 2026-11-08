@@ -4,7 +4,7 @@
 
 The code and data provided here are made available **solely for the purposes of peer review** of the associated manuscript:
 
-> "Behaviour of migrating sockeye salmon (<i>Oncorhynchus nerka</i>) smolts through an important counting fence"
+> "Migration behaviour and passage of sockeye salmon (<i>Oncorhynchus nerka</i>) smolts through a counting fence used for population monitoring"
 
 They are **not licensed for redistribution or reuse** at this stage.
 
